@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahim</h1>
+<h1 align="center">Hi 👋, I'm  Moynol Islam Mahim</h1>
 <h3 align="center">A Computer Science Student & Aspiring Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
