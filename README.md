@@ -176,11 +176,7 @@ Currently focusing on:
 
 # 📊 GitHub Statistics
 
-
-
 ## 📈 GitHub Contributions
-
-
 <p align="center">
   <img
     src="./profile/contributions.svg"
@@ -188,8 +184,6 @@ Currently focusing on:
     alt="GitHub Contribution Graph"
   />
 </p>
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
