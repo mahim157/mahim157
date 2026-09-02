@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Md. Moynol Islam Mahim" width="100%">
+</p>
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
