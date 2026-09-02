@@ -14,6 +14,8 @@
 </h3>
 
 
+
+
 ## 👨‍💻 About Me
 
 I'm a Computer Science & Engineering student who is currently
@@ -31,6 +33,8 @@ and building small projects to turn what I learn into practical work.
 - 🇧🇩 Bangladesh
 
 ---
+
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -52,6 +56,8 @@ and building small projects to turn what I learn into practical work.
 </a>
 
 </p>
+
+
 # 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
