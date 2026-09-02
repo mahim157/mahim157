@@ -1,20 +1,48 @@
-# Hi 👋, I'm Md. Moynol Islam Mahim
+<!-- ===================== PROFILE BANNER ===================== -->
 
-### 🎓 CSE Student | 💻 Aspiring Software Engineer | 🌱 Web Development Learner
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Md. Moynol Islam Mahim"/>
+</p>
+
+<!-- ===================== INTRO ===================== -->
+
+<h1 align="center">Hi 👋, I'm Md. Moynol Islam Mahim</h1>
+
+<h3 align="center">
+  🎓 CSE Student | 💻 Aspiring Software Engineer | 🌱 Web Development Learner
+</h3>
+
+<p align="center">
+  <a href="https://github.com/mahim157">
+    <img src="https://img.shields.io/badge/GitHub-mahim157-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-moynol-islam-mahim-0a9131336">
+    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Moynol%20Islam%20Mahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a Computer Science & Engineering student
-- 🌱 Currently learning **JavaScript, TypeScript and Modern Web Development**
-- 💻 Interested in **Web Development and Software Engineering**
-- 📚 I enjoy learning by building small projects and solving programming problems
-- 🔍 Currently improving my programming and development skills step by step
+I'm a Computer Science & Engineering student who is currently
+building my foundation in programming and web development.
+
+I enjoy learning new technologies, solving programming problems,
+and building small projects to turn what I learn into practical work.
+
+- 🎓 Computer Science & Engineering Student
+- 🌱 Currently learning **JavaScript, TypeScript & Modern Web Development**
+- 💻 Interested in **Web Development & Software Engineering**
+- 📚 Learning through academic projects and practical projects
+- 🧩 Practicing programming and problem solving
+- 🚀 Improving my skills step by step
+- 🇧🇩 Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
 
@@ -36,45 +64,166 @@
 
 ---
 
-## 🚀 Projects & Learning Journey
+# 🚀 Projects
 
-### 🌐 Web Portfolio
-A personal portfolio website created while learning HTML and CSS.
+## 🌐 Web Portfolio
 
-🔗 [View Repository](https://github.com/mahim157/web-portfoli)
+A personal portfolio website created while learning
+HTML and CSS.
 
-### ☕ Coffee Shop Website
-A simple coffee shop website project focused on HTML, CSS and basic web design.
-
-🔗 [View Repository](https://github.com/mahim157/Coffee-Shop-website)
-
-### 📄 Assignment 1
-A web development assignment created as part of my learning journey.
-
-🔗 [View Repository](https://github.com/mahim157/Assignment-1)
-
-### 📊 Data Science Academic Projects
-Academic data analysis projects including:
-
-- Study Hours vs CGPA
-- Social Media Usage vs Concentration Level
-
-### 🎮 Computer Graphics Project
-**Interactive Animated Village Landscape using OpenGL**
-
-A university academic project developed using C++, OpenGL and GLUT/FreeGLUT.
+🔗 **Repository:**  
+[Web Portfolio](https://github.com/mahim157/web-portfoli)
 
 ---
 
-## 📚 Currently Learning
+## ☕ Coffee Shop Website
 
-```text
-JavaScript
-    ↓
-TypeScript
-    ↓
-Modern Web Development
-    ↓
-Backend Development
-    ↓
-Building Real-World Projects
+A simple coffee shop website created to practice
+HTML, CSS and basic web page design.
+
+🔗 **Repository:**  
+[Coffee Shop Website](https://github.com/mahim157/Coffee-Shop-website)
+
+---
+
+## 📄 Assignment 1
+
+A web development assignment created as part of my
+learning journey.
+
+🔗 **Repository:**  
+[Assignment 1](https://github.com/mahim157/Assignment-1)
+
+---
+
+# 🎓 Academic Projects
+
+## 📊 Data Science Projects
+
+As part of my academic learning in Data Science, I worked on
+projects involving data collection, cleaning and exploratory
+data analysis.
+
+### Projects
+
+- 📚 **Study Hours vs CGPA**
+- 📱 **Social Media Usage vs Concentration Level**
+
+These projects helped me practice working with real-world data
+and understanding relationships between variables.
+
+---
+
+## 🎮 Interactive Animated Village Landscape
+
+A Computer Graphics academic project developed using:
+
+- C++
+- OpenGL
+- GLUT / FreeGLUT
+
+The project focuses on creating an interactive and animated
+village environment using computer graphics techniques.
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express" />
+</p>
+
+Currently focusing on:
+
+- JavaScript fundamentals
+- TypeScript
+- Modern Web Development
+- Backend Development
+- Programming Problem Solving
+- Git & GitHub
+- Building practical projects
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Improve my JavaScript skills
+- 📘 Become more confident with TypeScript
+- 🌐 Build more practical web projects
+- 🧠 Strengthen problem-solving skills
+- ⚙️ Learn backend development properly
+- 🔧 Improve my Git & GitHub workflow
+- 🌱 Explore open-source contribution
+- 💼 Prepare myself for a software engineering career
+
+---
+
+# 📊 GitHub Statistics
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mahim157&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mahim157&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahim157&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mahim157&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mahim157">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-moynol-islam-mahim-0a9131336">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:moynolmahim58@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 My Learning Philosophy
+
+> Learn consistently. Build projects. Make mistakes. Improve every day.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
