@@ -13,17 +13,6 @@
   🎓 CSE Student | 💻 Aspiring Software Engineer | 🌱 Web Development Learner
 </h3>
 
-<p align="center">
-  <a href="https://github.com/mahim157">
-    <img src="https://img.shields.io/badge/GitHub-mahim157-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/md-moynol-islam-mahim-0a9131336">
-    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Moynol%20Islam%20Mahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -42,7 +31,27 @@ and building small projects to turn what I learn into practical work.
 - 🇧🇩 Bangladesh
 
 ---
+## 🌐 Socials:
 
+<p align="left">
+
+<a href="https://www.facebook.com/ma.him.3040" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-moynol-islam-mahim-0a9131336" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:moynolmahim58@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/mahim10_68" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-mahim10__68-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
 # 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
