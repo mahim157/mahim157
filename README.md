@@ -180,6 +180,8 @@ Currently focusing on:
 
 ## 📈 GitHub Contributions
 
+## 📈 GitHub Contributions
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=mahim157&theme=tokyo-night"
