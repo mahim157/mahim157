@@ -180,17 +180,11 @@ Currently focusing on:
 
 ## 📈 GitHub Contributions
 
-## 📈 GitHub Contributions
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mahim157&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
 ---
+
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -211,6 +205,7 @@ Currently focusing on:
 ---
 
 ## 🔥 GitHub Streak
+
 
 <p align="center">
   <img
