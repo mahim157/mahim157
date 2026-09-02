@@ -178,12 +178,11 @@ Currently focusing on:
 
 ## 📈 GitHub Contributions
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mahim157&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="48%" alt="Top Languages" />
 </p>
 
 ---
