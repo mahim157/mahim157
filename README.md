@@ -190,6 +190,11 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
+
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mahim157&show_icons=true&theme=tokyonight"
